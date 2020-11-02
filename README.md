@@ -1,4 +1,6 @@
-### Hi there 👋
+![alt text](https://1.bp.blogspot.com/-YNQ3AWA44wU/X6BAeApzFWI/AAAAAAAAAxs/O1_DDapTZ9YZPGxvyZLNuLSwzbWm_zl4ACLcBGAsYHQ/s700/CapaGithubteste1.png)
+
+### alert("Hello, World!"); 👋
 
 <!--
 **NadyCarboni/NadyCarboni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
