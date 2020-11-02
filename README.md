@@ -4,9 +4,9 @@
 ### Olá 🌸
 #### Meu nome é Nádia, tenho 18 anos e estou no segundo semestre de ADS da Fatec Sorocaba.  
  Sou apaixonada pela área de front-end, a qual tenho muito desejo de trabalhar em um futuro próximo  
-   > Participo de vários projetinhos sempre que posso :)  
-   > Tenho uma boa noção de HTML + CSS;  
-   > Estudo JS, C e C#  
+   >  Participo de vários projetinhos sempre que posso :)  
+   >  Tenho uma boa noção de HTML + CSS;  
+   >  Estudo JS, C e C#  
    
 
 
