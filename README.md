@@ -1,26 +1,26 @@
-![alt text](https://lh3.googleusercontent.com/-21YErQo2Uwc/YeK_A-oWPyI/AAAAAAAAAMA/XyZkIO-vdlgkkpzXWbICVcsv5Ke3RhrywCNcBGAsYHQ/s16000/Banner%2Bgithub.png)  
-  
-![alt text](https://1.bp.blogspot.com/-bADy-s4ezuo/X6BHOF5OyOI/AAAAAAAAAyE/xeEgO7p9ZpU6TUyCnQhTcUKfVn7Was3GACLcBGAsYHQ/s217/hello%2Bworld.png)
-### Olá 🌸
-#### Meu nome é Nádia, tenho 19 anos e estou no quinto semestre de ADS da Fatec Sorocaba.  
- Sou apaixonada pela área de front-end, a qual tenho muito desejo de trabalhar em um futuro próximo  
-   > ● Participo de vários projetinhos sempre que posso :)  
-   > ● Tenho uma boa noção de HTML + CSS;  
-   > ● Estudo JS, C e C#  
-   
+<p Align=center>
+<img src ="https://github.com/NadyCarboni/NadyCarboni/assets/69855489/148ee527-1ecc-4f74-9416-08ca5aac2dfc">
+</p>
+<p Align=center><img src ="https://lh3.googleusercontent.com/blogger_img_proxy/AByxGDQpDmiz7m1yHjavuN2qSTVmAjRT9JQGCuCjnEzD9-j1pSOQdsI5r_Bz-oZ6NR3Wj2gDvm1o3mS5gJI6e1rTbEofsfLHgSV6LyOZng5y5FehOwB16OmuwFmgcp0=s0-d"> <code>> Hello world </code></p>
+<p Align=center>
+My name is Nádia Carboni, a Brazilian developer graduated in Analysis and Systems Development. I am a highly motivated front-end developer passionate about creating amazing web experiences. I have strong skills in JavaScript, ReactJS, HTML, and CSS, combined with knowledge of design tools such as Figma. I am always eager to learn and expand my technical skills. Currently, I am studying AngularJS.
+<p Align=center><img src ="https://lh3.googleusercontent.com/blogger_img_proxy/AByxGDQpDmiz7m1yHjavuN2qSTVmAjRT9JQGCuCjnEzD9-j1pSOQdsI5r_Bz-oZ6NR3Wj2gDvm1o3mS5gJI6e1rTbEofsfLHgSV6LyOZng5y5FehOwB16OmuwFmgcp0=s0-d"> <code>> Technical abilities </code>
+<p Align=center>
+  <img height="50px" width="auto" src="https://github.com/NadyCarboni/NadyCarboni/assets/69855489/e8583eee-69e6-46cd-8aab-927b706d4801"> 
+<img height="50px" width="auto" src="https://github.com/NadyCarboni/NadyCarboni/assets/69855489/447d77e5-2f9c-4033-9330-8c724cdf3e4f"> 
+  <img height="50px" width="auto" src="https://github.com/NadyCarboni/NadyCarboni/assets/69855489/8ac6e17f-84bb-4ce7-9bb4-af20f54ba543"> 
+  <img height="50px" width="auto" src="https://github.com/NadyCarboni/NadyCarboni/assets/69855489/c8667b58-7152-4321-9e23-4b876504f95b"> 
+  <img height="50px" width="auto" src="https://github.com/NadyCarboni/NadyCarboni/assets/69855489/15099f45-9df2-4084-95d1-126ab47e0979"> 
+  <img height="50px" width="auto" src="https://github.com/NadyCarboni/NadyCarboni/assets/69855489/d9bd99dc-ea07-4577-a000-05fd7f530ef1"> 
 
 
-<!--
-**NadyCarboni/NadyCarboni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p Align=center>
+<img src ="https://media2.giphy.com/media/K0UyAcJ0rmpyLxEckc/200.webp?cid=ecf05e47xebvbpcsgebx16af6gbrtgto20nz7hjedzfueokc&ep=v1_stickers_search&rid=200.webp&ct=s">
+</p>
+
+
+
+
